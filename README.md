@@ -1,7 +1,7 @@
-Final Assessment – GitQuiz
+# Final Assessment – GitQuiz
 
-Score: 96/100 
+**Score: 96/100 ✅**
 
-Result Screenshot
+## Result Screenshot
 
 ![GitQuiz Result](final Assesment.png)
