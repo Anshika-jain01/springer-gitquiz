@@ -4,4 +4,5 @@
 
 ## Result Screenshot
 
-![GitQuiz Result](final Assesment.png)
+![GitQuiz Result](./final%20Assesment.png)
+
